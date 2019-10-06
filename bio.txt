@@ -1,3 +1,5 @@
 Hi im Jackie Binya a coding enthusiast
 
+I currently code in Javascript
+
 
