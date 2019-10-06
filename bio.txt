@@ -4,9 +4,8 @@ I would love to learn Python as well
 
 Programming languages I know:
 C
-Java
+Golang
 C#
-
-
-
+Java
+Latin
 
