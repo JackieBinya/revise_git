@@ -2,6 +2,11 @@ Hi im Jackie Binya a coding enthusiast
 I currently code in Javascript
 I would love to learn Python as well
 
+Programming languages I know:
+C
+C++
+C#
+
 
 
 
